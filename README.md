@@ -1,21 +1,21 @@
-### Hi there 👋
-    <h1>
-        hi my name is Sohaib
-        I'm a passionate web developer with a strong foundation in JavaScript,TypeScript, C, and C++.
-        I'm adept at crafting user-friendly and visually appealing web experiences, leveraging the power of
-        these technologies to bring ideas to life.   
-    </h1>
-<!--
-**SohaibMagrabi/SohaibMagrabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Sohaib 
 
-Here are some ideas to get you started:
+I'm a passionate web developer
+ with a strong foundation in JavaScript, HTML, CSS, React, Next.js, C, and C++. I'm adept at crafting user-friendly and visually appealing web experiences, leveraging the power of these technologies to bring ideas to life.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+* JavaScript (Advanced)
+* HTML & CSS (Advanced)
+* React (Intermediate)
+* Next.js (Intermediate)
+* C & C++ (Beginner)
+* Problem-Solving Algorithms (Intermediate)
+
+
+## Contact
+
+* Email: SohaibMagrabi@gmail.com
+* LinkedIn: [Your LinkedIn Profile URL] 
+
+[Add badges here using Markdown syntax for images]
