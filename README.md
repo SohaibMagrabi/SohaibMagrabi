@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm SOHAIB</h1>
-<h3 align="center">A passionate frontend developer from Egypt, <h1> hi my name is Sohaib I'm a passionate web developer with a strong foundation in JavaScript,TypeScript, C, and C++. I'm adept at crafting user-friendly and visually appealing web experiences, leveraging the power ofthese technologies to bring ideas to life.</h3>
+<h1 align="center">Hi 👋, I'm Sohaib</h1>
+<h3 align="center"> I'm a passionate web developer with a strong foundation in JavaScript,TypeScript, C, and C++. I'm adept at crafting user-friendly and visually appealing web experiences, leveraging the power ofthese technologies to bring ideas to life.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohaibmagrabi&label=Profile%20views&color=0e75b6&style=flat" alt="sohaibmagrabi" /> </p>
 
