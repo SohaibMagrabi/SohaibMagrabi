@@ -16,6 +16,4 @@ I'm a passionate web developer
 ## Contact
 
 * Email: SohaibMagrabi@gmail.com
-* LinkedIn: [Your LinkedIn Profile URL] 
 
-[Add badges here using Markdown syntax for images]
