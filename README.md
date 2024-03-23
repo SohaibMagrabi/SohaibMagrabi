@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm SOHAIB</h1>
 <h3 align="center">I'm a passionate web developer</h3>
-
-- 🔭 I’m currently working on **NightWathch**
-
-- 🌱 I’m currently learning **MernStack**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
